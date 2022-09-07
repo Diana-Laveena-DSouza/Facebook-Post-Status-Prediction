@@ -17,12 +17,34 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 • Download the Classification model file from following Drive Link
 
-• 
+• https://drive.google.com/drive/u/0/folders/1VrakpTC9fb8s1VIkX_2prfSOMOa9Nu-E
 
 # 🖥️ Installation 
 ______________________________________________________________________________________________________________________
 
+# 🛠️ Requirements
 
+• Python 3.9+
+
+• Flask 2.1.0
+
+• Werkzeug 2.0.1
+
+• numpy 1.19.5
+
+• requests 2.24.0
+
+• gunicorn 20.1.0
+
+• scikit-learn 1.0.2
+
+• Pillow 8.3.2
+
+• jinja2 3.1.0
+
+• gensim 4.1.2
+
+• nltk 3.7
 
 # 📖 Please Go through  for more info.
 
