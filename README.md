@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 • nltk 3.7
 
-# 📖 Please Go through  for more info.
+# 📖 Please Go through https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/Facebook_HLD_V1.pdf for more info.
 
 # Contributors 👩
 ______________________________________________________________________________________________________________________
