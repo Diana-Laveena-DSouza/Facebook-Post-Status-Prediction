@@ -11,13 +11,13 @@ affected. So, here we need identify emotional quotient of young people through t
 ______________________________________________________________________________________________________________________
  • Download the dataset for custom training
  
- • https://drive.google.com/drive/u/0/folders/1QQZciugL_wOkxhCRAH2cKWZChTab3ViM
-
+ • https://drive.google.com/drive/folders/1QQZciugL_wOkxhCRAH2cKWZChTab3ViM?usp=sharing
+ 
 # 🏽‍ Download the Model
 ______________________________________________________________________________________________________________________
 • Download the Classification model file from following Drive Link
 
-• https://drive.google.com/drive/u/0/folders/1VrakpTC9fb8s1VIkX_2prfSOMOa9Nu-E
+• https://drive.google.com/drive/folders/1VrakpTC9fb8s1VIkX_2prfSOMOa9Nu-E?usp=sharing
 
 # 🖥️ Installation 
 ______________________________________________________________________________________________________________________
