@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+			<title>Facebook Post Status Prediction</title>
+			<style>
+				h1 {text-align: center;}
+				p {text-align: center;}
+				div {text-align: center;}
+				input {line-height: 4em;}
+			</style>
+	</head>
+	<body style="background: #000;">
+		<div class="login">
+			<h1 style="color:DodgerBlue;">Facebook Post Status Prediction</h1>
+			<br/><br/>
+			<h2 style="color:DodgerBlue;">Predicting the Emotion of the Adolescence Based on Post</h2>
+			<br/><br/><br/><br/>
+			<form action="{{ url_for('predict')}}" method="post">
+			        <label for="post" style="color:DodgerBlue;">Enter the Facebook Post:</label>
+					 <input type="text" id="post" name="post" size="100" required="required" />
+					 <br/><br/><br/><br/>
+					<p><button type="submit">Submit</button></p>
+			</form>
+			<br/><br/>
+			<p style="color:Red;"><label style="color:DodgerBlue;">Facebook Post:</label> {{post_text}}</p>
+			<p style="color:DodgerBlue;">Predict: <label style="color:Red;"><b>{{prediction_text}}</b></label></p>
+		</div>
+	</body>
+</html>
