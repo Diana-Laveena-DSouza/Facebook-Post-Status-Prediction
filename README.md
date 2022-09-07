@@ -11,7 +11,7 @@ affected. So, here we need identify emotional quotient of young people through t
 ______________________________________________________________________________________________________________________
  • Download the dataset for custom training
  
- • 
+ • https://drive.google.com/drive/u/0/folders/1QQZciugL_wOkxhCRAH2cKWZChTab3ViM
 
 # 🏽‍ Download the Model
 ______________________________________________________________________________________________________________________
