@@ -52,6 +52,12 @@ ________________________________________________________________________________
 
 • https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/FacebookStatus_DetailProject.pptx
 
+• https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/FacebookStatus_LLD_1.0v.pdf
+
+• https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/FacebookStatus_WireFrame.pdf
+
+• https://github.com/Diana-Laveena-DSouza/Facebook-Post-Status-Prediction/blob/main/doc/FacebookStatus_Architecture_1.0v.pdf
+
 # Facebook Post Status Prediction
 _______________________________________________________________________________________________________________________
 
